@@ -1,5 +1,0 @@
-LOCAL_MONGODB=false
-USER_DATABASE=sopekocko-user
-MDP_DATABASE=sopekocko-password
-ADDRESS_DATABASE=cluster0.zz9hl.mongodb.net/test
-SECRET_KEY=r5jLdFdXvPgzouI9ElUhw2WV8mHSlLrwduNzVaKdofrqadhVpJ1LEn9HcIoPV3e9Wm97u4gIygTjvEr2LYPGSSzSPph4XA9n83CEZLpJ7BnQccYA7ESViYyArStqi5Nb
